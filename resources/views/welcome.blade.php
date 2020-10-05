@@ -83,6 +83,7 @@
                 <div class="title m-b-md">
                     Enaam Laravel
                 </div>
+                <h4>Anoosa</h4>
 
             <h1> {{__('messages.welcome')}}</h1>
 
